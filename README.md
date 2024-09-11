@@ -14,5 +14,5 @@ A simple, stylish, and responsive calculator built with **HTML**, **Tailwind CSS
 1. Clone this repository:
    ```bash
    git clone <repository-url>
-2.Open the index.html file in your browser.
+2.Open the index.html and script.js files in your browser to use the music player.
 
